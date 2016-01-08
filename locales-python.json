@@ -2,2171 +2,2171 @@
   {
     "short": "af-NA",
     "full": "Afrikaans (Namibia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "af-ZA",
     "full": "Afrikaans (South Africa)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "af",
     "full": "Afrikaans",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ak-GH",
     "full": "Akan (Ghana)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ak",
     "full": "Akan",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "sq-AL",
     "full": "Albanian (Albania)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "sq",
     "full": "Albanian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "am-ET",
     "full": "Amharic (Ethiopia)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "am",
     "full": "Amharic",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-DZ",
     "full": "Arabic (Algeria)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-BH",
     "full": "Arabic (Bahrain)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-EG",
     "full": "Arabic (Egypt)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-IQ",
     "full": "Arabic (Iraq)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-JO",
     "full": "Arabic (Jordan)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-KW",
     "full": "Arabic (Kuwait)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-LB",
     "full": "Arabic (Lebanon)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-LY",
     "full": "Arabic (Libya)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-MA",
     "full": "Arabic (Morocco)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-OM",
     "full": "Arabic (Oman)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-QA",
     "full": "Arabic (Qatar)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-SA",
     "full": "Arabic (Saudi Arabia)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-SD",
     "full": "Arabic (Sudan)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-SY",
     "full": "Arabic (Syria)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-TN",
     "full": "Arabic (Tunisia)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-AE",
     "full": "Arabic (United Arab Emirates)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar-YE",
     "full": "Arabic (Yemen)",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "ar",
     "full": "Arabic",
-    "extracted": "%m‏/%d‏/%Y %I:%M:%S %p"
+    "format_date": "%m‏/%d‏/%Y %I:%M:%S %p"
   },
   {
     "short": "hy-AM",
     "full": "Armenian (Armenia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "hy",
     "full": "Armenian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "as-IN",
     "full": "Assamese (India)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "as",
     "full": "Assamese",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "asa-TZ",
     "full": "Asu (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "asa",
     "full": "Asu",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "az-Cyrl",
     "full": "Azerbaijani (Cyrillic)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "az-Cyrl_AZ",
+    "short": "az-Cyrl-AZ",
     "full": "Azerbaijani (Cyrillic, Azerbaijan)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "az-Latn",
     "full": "Azerbaijani (Latin)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "az-Latn_AZ",
+    "short": "az-Latn-AZ",
     "full": "Azerbaijani (Latin, Azerbaijan)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "az",
     "full": "Azerbaijani",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "bm-ML",
     "full": "Bambara (Mali)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "bm",
     "full": "Bambara",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "eu-ES",
     "full": "Basque (Spain)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "eu",
     "full": "Basque",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "be-BY",
     "full": "Belarusian (Belarus)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "be",
     "full": "Belarusian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "bem-ZM",
     "full": "Bemba (Zambia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "bem",
     "full": "Bemba",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "bez-TZ",
     "full": "Bena (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "bez",
     "full": "Bena",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "bn-BD",
     "full": "Bengali (Bangladesh)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "bn-IN",
     "full": "Bengali (India)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "bn",
     "full": "Bengali",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "bs-BA",
     "full": "Bosnian (Bosnia and Herzegovina)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "bs",
     "full": "Bosnian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "bg-BG",
     "full": "Bulgarian (Bulgaria)",
-    "extracted": "%d.%m.%Y г., %H:%M:%S"
+    "format_date": "%d.%m.%Y г., %H:%M:%S"
   },
   {
     "short": "bg",
     "full": "Bulgarian",
-    "extracted": "%d.%m.%Y г., %H:%M:%S"
+    "format_date": "%d.%m.%Y г., %H:%M:%S"
   },
   {
     "short": "my-MM",
     "full": "Burmese (Myanmar [Burma])",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "my",
     "full": "Burmese",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ca-ES",
     "full": "Catalan (Spain)",
-    "extracted": "%d/%m/%Y , %H:%M:%S"
+    "format_date": "%d/%m/%Y , %H:%M:%S"
   },
   {
     "short": "ca",
     "full": "Catalan",
-    "extracted": "%d/%m/%Y , %H:%M:%S"
+    "format_date": "%d/%m/%Y , %H:%M:%S"
   },
   {
     "short": "tzm-Latn",
     "full": "Central Morocco Tamazight (Latin)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
-    "short": "tzm-Latn_MA",
+    "short": "tzm-Latn-MA",
     "full": "Central Morocco Tamazight (Latin, Morocco)",
-    "extracted": false
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "tzm",
     "full": "Central Morocco Tamazight",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "chr-US",
     "full": "Cherokee (United States)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "chr",
     "full": "Cherokee",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "cgg-UG",
     "full": "Chiga (Uganda)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "cgg",
     "full": "Chiga",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "zh-Hans",
     "full": "Chinese (Simplified Han)",
-    "extracted": "%Y/%m/%d %p%I:%M:%S"
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
-    "short": "zh-Hans_CN",
+    "short": "zh-Hans-CN",
     "full": "Chinese (Simplified Han, China)",
-    "extracted": false
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
-    "short": "zh-Hans_HK",
+    "short": "zh-Hans-HK",
     "full": "Chinese (Simplified Han, Hong Kong SAR China)",
-    "extracted": false
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
-    "short": "zh-Hans_MO",
+    "short": "zh-Hans-MO",
     "full": "Chinese (Simplified Han, Macau SAR China)",
-    "extracted": false
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
-    "short": "zh-Hans_SG",
+    "short": "zh-Hans-SG",
     "full": "Chinese (Simplified Han, Singapore)",
-    "extracted": false
+    "format_date": "%Y年%m月%d日 %p%I:%M:%S"
   },
   {
     "short": "zh-Hant",
     "full": "Chinese (Traditional Han)",
-    "extracted": "%Y/%m/%d %p%I:%M:%S"
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
-    "short": "zh-Hant_HK",
+    "short": "zh-Hant-HK",
     "full": "Chinese (Traditional Han, Hong Kong SAR China)",
-    "extracted": false
+    "format_date": "%d/%m/%Y %p%I:%M:%S"
   },
   {
-    "short": "zh-Hant_MO",
+    "short": "zh-Hant-MO",
     "full": "Chinese (Traditional Han, Macau SAR China)",
-    "extracted": false
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
-    "short": "zh-Hant_TW",
+    "short": "zh-Hant-TW",
     "full": "Chinese (Traditional Han, Taiwan)",
-    "extracted": false
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
     "short": "zh",
     "full": "Chinese",
-    "extracted": "%Y/%m/%d %p%I:%M:%S"
+    "format_date": "%Y/%m/%d %p%I:%M:%S"
   },
   {
     "short": "kw-GB",
     "full": "Cornish (United Kingdom)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kw",
     "full": "Cornish",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "hr-HR",
     "full": "Croatian (Croatia)",
-    "extracted": "%d.%m.%Y. %H:%M:%S"
+    "format_date": "%d.%m.%Y. %H:%M:%S"
   },
   {
     "short": "hr",
     "full": "Croatian",
-    "extracted": "%d.%m.%Y. %H:%M:%S"
+    "format_date": "%d.%m.%Y. %H:%M:%S"
   },
   {
     "short": "cs-CZ",
     "full": "Czech (Czech Republic)",
-    "extracted": "%d. %m. %Y %H:%M:%S"
+    "format_date": "%d. %m. %Y %H:%M:%S"
   },
   {
     "short": "cs",
     "full": "Czech",
-    "extracted": "%d. %m. %Y %H:%M:%S"
+    "format_date": "%d. %m. %Y %H:%M:%S"
   },
   {
     "short": "da-DK",
     "full": "Danish (Denmark)",
-    "extracted": "%d/%m/%Y %H.%M.%S"
+    "format_date": "%d/%m/%Y %H.%M.%S"
   },
   {
     "short": "da",
     "full": "Danish",
-    "extracted": "%d/%m/%Y %H.%M.%S"
+    "format_date": "%d/%m/%Y %H.%M.%S"
   },
   {
     "short": "nl-BE",
     "full": "Dutch (Belgium)",
-    "extracted": "%d-%m-%Y %H:%M:%S"
+    "format_date": "%d-%m-%Y %H:%M:%S"
   },
   {
     "short": "nl-NL",
     "full": "Dutch (Netherlands)",
-    "extracted": "%d-%m-%Y %H:%M:%S"
+    "format_date": "%d-%m-%Y %H:%M:%S"
   },
   {
     "short": "nl",
     "full": "Dutch",
-    "extracted": "%d-%m-%Y %H:%M:%S"
+    "format_date": "%d-%m-%Y %H:%M:%S"
   },
   {
     "short": "ebu-KE",
     "full": "Embu (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ebu",
     "full": "Embu",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-AS",
     "full": "English (American Samoa)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-AU",
     "full": "English (Australia)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "en-BE",
     "full": "English (Belgium)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-BZ",
     "full": "English (Belize)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-BW",
     "full": "English (Botswana)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-CA",
     "full": "English (Canada)",
-    "extracted": "%Y-%m-%d, %I:%M:%S %p"
+    "format_date": "%Y-%m-%d, %I:%M:%S %p"
   },
   {
     "short": "en-GU",
     "full": "English (Guam)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-HK",
     "full": "English (Hong Kong SAR China)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-IN",
     "full": "English (India)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-IE",
     "full": "English (Ireland)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-JM",
     "full": "English (Jamaica)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-MT",
     "full": "English (Malta)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-MH",
     "full": "English (Marshall Islands)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-MU",
     "full": "English (Mauritius)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-NA",
     "full": "English (Namibia)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-NZ",
     "full": "English (New Zealand)",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-MP",
     "full": "English (Northern Mariana Islands)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-PK",
     "full": "English (Pakistan)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-PH",
     "full": "English (Philippines)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-SG",
     "full": "English (Singapore)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-ZA",
     "full": "English (South Africa)",
-    "extracted": "%Y/%m/%d, %I:%M:%S %p"
+    "format_date": "%Y/%m/%d, %I:%M:%S %p"
   },
   {
     "short": "en-TT",
     "full": "English (Trinidad and Tobago)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-UM",
     "full": "English (U.S. Minor Outlying Islands)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-VI",
     "full": "English (U.S. Virgin Islands)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-GB",
     "full": "English (United Kingdom)",
-    "extracted": "%d/%m/%Y, %H:%M:%S"
+    "format_date": "%d/%m/%Y, %H:%M:%S"
   },
   {
     "short": "en-US",
     "full": "English (United States)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en-ZW",
     "full": "English (Zimbabwe)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "en",
     "full": "English",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "eo",
     "full": "Esperanto",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "et-EE",
     "full": "Estonian (Estonia)",
-    "extracted": "%d.%m.%Y %H:%M.%S"
+    "format_date": "%d.%m.%Y %H:%M.%S"
   },
   {
     "short": "et",
     "full": "Estonian",
-    "extracted": "%d.%m.%Y %H:%M.%S"
+    "format_date": "%d.%m.%Y %H:%M.%S"
   },
   {
     "short": "ee-GH",
     "full": "Ewe (Ghana)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ee-TG",
     "full": "Ewe (Togo)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ee",
     "full": "Ewe",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "fo-FO",
     "full": "Faroese (Faroe Islands)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "fo",
     "full": "Faroese",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "fil-PH",
     "full": "Filipino (Philippines)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "fil",
     "full": "Filipino",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "fi-FI",
     "full": "Finnish (Finland)",
-    "extracted": "%d.%m.%Y %H.%M.%S"
+    "format_date": "%d.%m.%Y %H.%M.%S"
   },
   {
     "short": "fi",
     "full": "Finnish",
-    "extracted": "%d.%m.%Y %H.%M.%S"
+    "format_date": "%d.%m.%Y %H.%M.%S"
   },
   {
     "short": "fr-BE",
     "full": "French (Belgium)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-BJ",
     "full": "French (Benin)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-BF",
     "full": "French (Burkina Faso)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-BI",
     "full": "French (Burundi)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-CM",
     "full": "French (Cameroon)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-CA",
     "full": "French (Canada)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "fr-CF",
     "full": "French (Central African Republic)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-TD",
     "full": "French (Chad)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-KM",
     "full": "French (Comoros)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-CG",
     "full": "French (Congo - Brazzaville)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-CD",
     "full": "French (Congo - Kinshasa)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-CI",
     "full": "French (Côte d’Ivoire)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-DJ",
     "full": "French (Djibouti)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-GQ",
     "full": "French (Equatorial Guinea)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-FR",
     "full": "French (France)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-GA",
     "full": "French (Gabon)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-GP",
     "full": "French (Guadeloupe)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-GN",
     "full": "French (Guinea)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-LU",
     "full": "French (Luxembourg)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-MG",
     "full": "French (Madagascar)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-ML",
     "full": "French (Mali)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-MQ",
     "full": "French (Martinique)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-MC",
     "full": "French (Monaco)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-NE",
     "full": "French (Niger)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-RW",
     "full": "French (Rwanda)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-RE",
     "full": "French (Réunion)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-BL",
     "full": "French (Saint Barthélemy)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-MF",
     "full": "French (Saint Martin)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-SN",
     "full": "French (Senegal)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-CH",
     "full": "French (Switzerland)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr-TG",
     "full": "French (Togo)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "fr",
     "full": "French",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "ff-SN",
     "full": "Fulah (Senegal)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ff",
     "full": "Fulah",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "gl-ES",
     "full": "Galician (Spain)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "gl",
     "full": "Galician",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "lg-UG",
     "full": "Ganda (Uganda)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "lg",
     "full": "Ganda",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ka-GE",
     "full": "Georgian (Georgia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ka",
     "full": "Georgian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "de-AT",
     "full": "German (Austria)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "de-BE",
     "full": "German (Belgium)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "de-DE",
     "full": "German (Germany)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "de-LI",
     "full": "German (Liechtenstein)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "de-LU",
     "full": "German (Luxembourg)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "de-CH",
     "full": "German (Switzerland)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "de",
     "full": "German",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "el-CY",
     "full": "Greek (Cyprus)",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "el-GR",
     "full": "Greek (Greece)",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "el",
     "full": "Greek",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "gu-IN",
     "full": "Gujarati (India)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "gu",
     "full": "Gujarati",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "guz-KE",
     "full": "Gusii (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "guz",
     "full": "Gusii",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ha-Latn",
     "full": "Hausa (Latin)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "ha-Latn_GH",
+    "short": "ha-Latn-GH",
     "full": "Hausa (Latin, Ghana)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "ha-Latn_NE",
+    "short": "ha-Latn-NE",
     "full": "Hausa (Latin, Niger)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "ha-Latn_NG",
+    "short": "ha-Latn-NG",
     "full": "Hausa (Latin, Nigeria)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ha",
     "full": "Hausa",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "haw-US",
     "full": "Hawaiian (United States)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "haw",
     "full": "Hawaiian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "he-IL",
     "full": "Hebrew (Israel)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "he",
     "full": "Hebrew",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "hi-IN",
     "full": "Hindi (India)",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "hi",
     "full": "Hindi",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "hu-HU",
     "full": "Hungarian (Hungary)",
-    "extracted": "%Y. %m. %d. %H:%M:%S"
+    "format_date": "%Y. %m. %d. %H:%M:%S"
   },
   {
     "short": "hu",
     "full": "Hungarian",
-    "extracted": "%Y. %m. %d. %H:%M:%S"
+    "format_date": "%Y. %m. %d. %H:%M:%S"
   },
   {
     "short": "is-IS",
     "full": "Icelandic (Iceland)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "is",
     "full": "Icelandic",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ig-NG",
     "full": "Igbo (Nigeria)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ig",
     "full": "Igbo",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "id-ID",
     "full": "Indonesian (Indonesia)",
-    "extracted": "%d/%m/%Y %H.%M.%S"
+    "format_date": "%d/%m/%Y %H.%M.%S"
   },
   {
     "short": "id",
     "full": "Indonesian",
-    "extracted": "%d/%m/%Y %H.%M.%S"
+    "format_date": "%d/%m/%Y %H.%M.%S"
   },
   {
     "short": "ga-IE",
     "full": "Irish (Ireland)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ga",
     "full": "Irish",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "it-IT",
     "full": "Italian (Italy)",
-    "extracted": "%d/%m/%Y, %H:%M:%S"
+    "format_date": "%d/%m/%Y, %H:%M:%S"
   },
   {
     "short": "it-CH",
     "full": "Italian (Switzerland)",
-    "extracted": "%d/%m/%Y, %H:%M:%S"
+    "format_date": "%d/%m/%Y, %H:%M:%S"
   },
   {
     "short": "it",
     "full": "Italian",
-    "extracted": "%d/%m/%Y, %H:%M:%S"
+    "format_date": "%d/%m/%Y, %H:%M:%S"
   },
   {
     "short": "ja-JP",
     "full": "Japanese (Japan)",
-    "extracted": "%Y/%m/%d %H:%M:%S"
+    "format_date": "%Y/%m/%d %H:%M:%S"
   },
   {
     "short": "ja",
     "full": "Japanese",
-    "extracted": "%Y/%m/%d %H:%M:%S"
+    "format_date": "%Y/%m/%d %H:%M:%S"
   },
   {
     "short": "kea-CV",
     "full": "Kabuverdianu (Cape Verde)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kea",
     "full": "Kabuverdianu",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kab-DZ",
     "full": "Kabyle (Algeria)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kab",
     "full": "Kabyle",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kl-GL",
     "full": "Kalaallisut (Greenland)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kl",
     "full": "Kalaallisut",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kln-KE",
     "full": "Kalenjin (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kln",
     "full": "Kalenjin",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kam-KE",
     "full": "Kamba (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kam",
     "full": "Kamba",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kn-IN",
     "full": "Kannada (India)",
-    "extracted": "%m/%d/%Y %I:%M:%S %p"
+    "format_date": "%m/%d/%Y %I:%M:%S %p"
   },
   {
     "short": "kn",
     "full": "Kannada",
-    "extracted": "%m/%d/%Y %I:%M:%S %p"
+    "format_date": "%m/%d/%Y %I:%M:%S %p"
   },
   {
     "short": "kk-Cyrl",
     "full": "Kazakh (Cyrillic)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "kk-Cyrl_KZ",
+    "short": "kk-Cyrl-KZ",
     "full": "Kazakh (Cyrillic, Kazakhstan)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "kk",
     "full": "Kazakh",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "km-KH",
     "full": "Khmer (Cambodia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "km",
     "full": "Khmer",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ki-KE",
     "full": "Kikuyu (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ki",
     "full": "Kikuyu",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "rw-RW",
     "full": "Kinyarwanda (Rwanda)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "rw",
     "full": "Kinyarwanda",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "kok-IN",
     "full": "Konkani (India)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kok",
     "full": "Konkani",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ko-KR",
     "full": "Korean (South Korea)",
-    "extracted": "%Y. %m. %d. %p %I:%M:%S"
+    "format_date": "%Y. %m. %d. %p %I:%M:%S"
   },
   {
     "short": "ko",
     "full": "Korean",
-    "extracted": "%Y. %m. %d. %p %I:%M:%S"
+    "format_date": "%Y. %m. %d. %p %I:%M:%S"
   },
   {
     "short": "khq-ML",
     "full": "Koyra Chiini (Mali)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "khq",
     "full": "Koyra Chiini",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ses-ML",
     "full": "Koyraboro Senni (Mali)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ses",
     "full": "Koyraboro Senni",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "lag-TZ",
     "full": "Langi (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "lag",
     "full": "Langi",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "lv-LV",
     "full": "Latvian (Latvia)",
-    "extracted": "%d.%m.%Y. %H:%M:%S"
+    "format_date": "%d.%m.%Y. %H:%M:%S"
   },
   {
     "short": "lv",
     "full": "Latvian",
-    "extracted": "%d.%m.%Y. %H:%M:%S"
+    "format_date": "%d.%m.%Y. %H:%M:%S"
   },
   {
     "short": "lt-LT",
     "full": "Lithuanian (Lithuania)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "lt",
     "full": "Lithuanian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "luo-KE",
     "full": "Luo (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "luo",
     "full": "Luo",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "luy-KE",
     "full": "Luyia (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "luy",
     "full": "Luyia",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mk-MK",
     "full": "Macedonian (Macedonia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "mk",
     "full": "Macedonian",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "jmc-TZ",
     "full": "Machame (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "jmc",
     "full": "Machame",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kde-TZ",
     "full": "Makonde (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "kde",
     "full": "Makonde",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mg-MG",
     "full": "Malagasy (Madagascar)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "mg",
     "full": "Malagasy",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ms-BN",
     "full": "Malay (Brunei)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "ms-MY",
     "full": "Malay (Malaysia)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "ms",
     "full": "Malay",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "ml-IN",
     "full": "Malayalam (India)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "ml",
     "full": "Malayalam",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "mt-MT",
     "full": "Maltese (Malta)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "mt",
     "full": "Maltese",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "gv-GB",
     "full": "Manx (United Kingdom)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "gv",
     "full": "Manx",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mr-IN",
     "full": "Marathi (India)",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "mr",
     "full": "Marathi",
-    "extracted": "%d/%m/%Y, %I:%M:%S %p"
+    "format_date": "%d/%m/%Y, %I:%M:%S %p"
   },
   {
     "short": "mas-KE",
     "full": "Masai (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mas-TZ",
     "full": "Masai (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mas",
     "full": "Masai",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mer-KE",
     "full": "Meru (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mer",
     "full": "Meru",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "mfe-MU",
     "full": "Morisyen (Mauritius)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "mfe",
     "full": "Morisyen",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "naq-NA",
     "full": "Nama (Namibia)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "naq",
     "full": "Nama",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ne-IN",
     "full": "Nepali (India)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ne-NP",
     "full": "Nepali (Nepal)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ne",
     "full": "Nepali",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "nd-ZW",
     "full": "North Ndebele (Zimbabwe)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "nd",
     "full": "North Ndebele",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "nb-NO",
     "full": "Norwegian Bokmål (Norway)",
-    "extracted": "%d.%m.%Y, %H.%M.%S"
+    "format_date": "%d.%m.%Y, %H.%M.%S"
   },
   {
     "short": "nb",
     "full": "Norwegian Bokmål",
-    "extracted": "%d.%m.%Y, %H.%M.%S"
+    "format_date": "%d.%m.%Y, %H.%M.%S"
   },
   {
     "short": "nn-NO",
     "full": "Norwegian Nynorsk (Norway)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "nn",
     "full": "Norwegian Nynorsk",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "nyn-UG",
     "full": "Nyankole (Uganda)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "nyn",
     "full": "Nyankole",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "or-IN",
     "full": "Oriya (India)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "or",
     "full": "Oriya",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "om-ET",
     "full": "Oromo (Ethiopia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "om-KE",
     "full": "Oromo (Kenya)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "om",
     "full": "Oromo",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ps-AF",
     "full": "Pashto (Afghanistan)",
-    "extracted": "%Y-%d-%m %H:%M:%S"
+    "format_date": "%Y-%d-%m %H:%M:%S"
   },
   {
     "short": "ps",
     "full": "Pashto",
-    "extracted": "%Y-%d-%m %H:%M:%S"
+    "format_date": "%Y-%d-%m %H:%M:%S"
   },
   {
     "short": "fa-AF",
     "full": "Persian (Afghanistan)",
-    "extracted": "%Y/%d/%m %p‏ %I:%M:%S"
+    "format_date": "%Y/%d/%m %p‏ %I:%M:%S"
   },
   {
     "short": "fa-IR",
     "full": "Persian (Iran)",
-    "extracted": "%Y/%d/%m %p‏ %I:%M:%S"
+    "format_date": "%Y/%d/%m %p‏ %I:%M:%S"
   },
   {
     "short": "fa",
     "full": "Persian",
-    "extracted": "%Y/%d/%m %p‏ %I:%M:%S"
+    "format_date": "%Y/%d/%m %p‏ %I:%M:%S"
   },
   {
     "short": "pl-PL",
     "full": "Polish (Poland)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "pl",
     "full": "Polish",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "pt-BR",
     "full": "Portuguese (Brazil)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "pt-GW",
     "full": "Portuguese (Guinea-Bissau)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "pt-MZ",
     "full": "Portuguese (Mozambique)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "pt-PT",
     "full": "Portuguese (Portugal)",
-    "extracted": "%d/%m/%Y, %H:%M:%S"
+    "format_date": "%d/%m/%Y, %H:%M:%S"
   },
   {
     "short": "pt",
     "full": "Portuguese",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "pa-Arab",
     "full": "Punjabi (Arabic)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "pa-Arab_PK",
+    "short": "pa-Arab-PK",
     "full": "Punjabi (Arabic, Pakistan)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "pa-Guru",
     "full": "Punjabi (Gurmukhi)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "pa-Guru_IN",
+    "short": "pa-Guru-IN",
     "full": "Punjabi (Gurmukhi, India)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "pa",
     "full": "Punjabi",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ro-MD",
     "full": "Romanian (Moldova)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "ro-RO",
     "full": "Romanian (Romania)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "ro",
     "full": "Romanian",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "rm-CH",
     "full": "Romansh (Switzerland)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "rm",
     "full": "Romansh",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "rof-TZ",
     "full": "Rombo (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "rof",
     "full": "Rombo",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ru-MD",
     "full": "Russian (Moldova)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "ru-RU",
     "full": "Russian (Russia)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "ru-UA",
     "full": "Russian (Ukraine)",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "ru",
     "full": "Russian",
-    "extracted": "%d.%m.%Y, %H:%M:%S"
+    "format_date": "%d.%m.%Y, %H:%M:%S"
   },
   {
     "short": "rwk-TZ",
     "full": "Rwa (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "rwk",
     "full": "Rwa",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "saq-KE",
     "full": "Samburu (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "saq",
     "full": "Samburu",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "sg-CF",
     "full": "Sango (Central African Republic)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "sg",
     "full": "Sango",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "seh-MZ",
     "full": "Sena (Mozambique)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "seh",
     "full": "Sena",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "sr-Cyrl",
     "full": "Serbian (Cyrillic)",
-    "extracted": "%d.%m.%Y. %H.%M.%S"
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
-    "short": "sr-Cyrl_BA",
+    "short": "sr-Cyrl-BA",
     "full": "Serbian (Cyrillic, Bosnia and Herzegovina)",
-    "extracted": false
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
-    "short": "sr-Cyrl_ME",
+    "short": "sr-Cyrl-ME",
     "full": "Serbian (Cyrillic, Montenegro)",
-    "extracted": false
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
-    "short": "sr-Cyrl_RS",
+    "short": "sr-Cyrl-RS",
     "full": "Serbian (Cyrillic, Serbia)",
-    "extracted": false
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
     "short": "sr-Latn",
     "full": "Serbian (Latin)",
-    "extracted": "%d.%m.%Y. %H.%M.%S"
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
-    "short": "sr-Latn_BA",
+    "short": "sr-Latn-BA",
     "full": "Serbian (Latin, Bosnia and Herzegovina)",
-    "extracted": false
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
-    "short": "sr-Latn_ME",
+    "short": "sr-Latn-ME",
     "full": "Serbian (Latin, Montenegro)",
-    "extracted": false
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
-    "short": "sr-Latn_RS",
+    "short": "sr-Latn-RS",
     "full": "Serbian (Latin, Serbia)",
-    "extracted": false
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
     "short": "sr",
     "full": "Serbian",
-    "extracted": "%d.%m.%Y. %H.%M.%S"
+    "format_date": "%d.%m.%Y. %H.%M.%S"
   },
   {
     "short": "sn-ZW",
     "full": "Shona (Zimbabwe)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "sn",
     "full": "Shona",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ii-CN",
     "full": "Sichuan Yi (China)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ii",
     "full": "Sichuan Yi",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "si-LK",
     "full": "Sinhala (Sri Lanka)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "si",
     "full": "Sinhala",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "sk-SK",
     "full": "Slovak (Slovakia)",
-    "extracted": "%d. %m. %Y, %H:%M:%S"
+    "format_date": "%d. %m. %Y, %H:%M:%S"
   },
   {
     "short": "sk",
     "full": "Slovak",
-    "extracted": "%d. %m. %Y, %H:%M:%S"
+    "format_date": "%d. %m. %Y, %H:%M:%S"
   },
   {
     "short": "sl-SI",
     "full": "Slovenian (Slovenia)",
-    "extracted": "%d. %m. %Y %H.%M.%S"
+    "format_date": "%d. %m. %Y %H.%M.%S"
   },
   {
     "short": "sl",
     "full": "Slovenian",
-    "extracted": "%d. %m. %Y %H.%M.%S"
+    "format_date": "%d. %m. %Y %H.%M.%S"
   },
   {
     "short": "xog-UG",
     "full": "Soga (Uganda)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "xog",
     "full": "Soga",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "so-DJ",
     "full": "Somali (Djibouti)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "so-ET",
     "full": "Somali (Ethiopia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "so-KE",
     "full": "Somali (Kenya)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "so-SO",
     "full": "Somali (Somalia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "so",
     "full": "Somali",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "es-AR",
     "full": "Spanish (Argentina)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "es-BO",
     "full": "Spanish (Bolivia)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-CL",
     "full": "Spanish (Chile)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-CO",
     "full": "Spanish (Colombia)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-CR",
     "full": "Spanish (Costa Rica)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-DO",
     "full": "Spanish (Dominican Republic)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-EC",
     "full": "Spanish (Ecuador)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-SV",
     "full": "Spanish (El Salvador)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-GQ",
     "full": "Spanish (Equatorial Guinea)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-GT",
     "full": "Spanish (Guatemala)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-HN",
     "full": "Spanish (Honduras)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-419",
     "full": "Spanish (Latin America)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "es-MX",
     "full": "Spanish (Mexico)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-NI",
     "full": "Spanish (Nicaragua)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-PA",
     "full": "Spanish (Panama)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-PY",
     "full": "Spanish (Paraguay)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-PE",
     "full": "Spanish (Peru)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-PR",
     "full": "Spanish (Puerto Rico)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-ES",
     "full": "Spanish (Spain)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-US",
     "full": "Spanish (United States)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "es-UY",
     "full": "Spanish (Uruguay)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es-VE",
     "full": "Spanish (Venezuela)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "es",
     "full": "Spanish",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "sw-KE",
     "full": "Swahili (Kenya)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "sw-TZ",
     "full": "Swahili (Tanzania)",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "sw",
     "full": "Swahili",
-    "extracted": "%d/%m/%Y %I:%M:%S %p"
+    "format_date": "%d/%m/%Y %I:%M:%S %p"
   },
   {
     "short": "sv-FI",
     "full": "Swedish (Finland)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "sv-SE",
     "full": "Swedish (Sweden)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "sv",
     "full": "Swedish",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "gsw-CH",
     "full": "Swiss German (Switzerland)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "gsw",
     "full": "Swiss German",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "shi-Latn",
     "full": "Tachelhit (Latin)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
-    "short": "shi-Latn_MA",
+    "short": "shi-Latn-MA",
     "full": "Tachelhit (Latin, Morocco)",
-    "extracted": false
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "shi-Tfng",
     "full": "Tachelhit (Tifinagh)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
-    "short": "shi-Tfng_MA",
+    "short": "shi-Tfng-MA",
     "full": "Tachelhit (Tifinagh, Morocco)",
-    "extracted": false
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "shi",
     "full": "Tachelhit",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "dav-KE",
     "full": "Taita (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "dav",
     "full": "Taita",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ta-IN",
     "full": "Tamil (India)",
-    "extracted": "%d/%m/%Y, %p %I:%M:%S"
+    "format_date": "%d/%m/%Y, %p %I:%M:%S"
   },
   {
     "short": "ta-LK",
     "full": "Tamil (Sri Lanka)",
-    "extracted": "%d/%m/%Y, %p %I:%M:%S"
+    "format_date": "%d/%m/%Y, %p %I:%M:%S"
   },
   {
     "short": "ta",
     "full": "Tamil",
-    "extracted": "%d/%m/%Y, %p %I:%M:%S"
+    "format_date": "%d/%m/%Y, %p %I:%M:%S"
   },
   {
     "short": "te-IN",
     "full": "Telugu (India)",
-    "extracted": "%d/%m/%Y %I:%M:%S [%p]"
+    "format_date": "%d/%m/%Y %I:%M:%S [%p]"
   },
   {
     "short": "te",
     "full": "Telugu",
-    "extracted": "%d/%m/%Y %I:%M:%S [%p]"
+    "format_date": "%d/%m/%Y %I:%M:%S [%p]"
   },
   {
     "short": "teo-KE",
     "full": "Teso (Kenya)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "teo-UG",
     "full": "Teso (Uganda)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "teo",
     "full": "Teso",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "th-TH",
     "full": "Thai (Thailand)",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "th",
     "full": "Thai",
-    "extracted": "%d/%m/%Y %H:%M:%S"
+    "format_date": "%d/%m/%Y %H:%M:%S"
   },
   {
     "short": "bo-CN",
     "full": "Tibetan (China)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "bo-IN",
     "full": "Tibetan (India)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "bo",
     "full": "Tibetan",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "ti-ER",
     "full": "Tigrinya (Eritrea)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ti-ET",
     "full": "Tigrinya (Ethiopia)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ti",
     "full": "Tigrinya",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "to-TO",
     "full": "Tonga (Tonga)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "to",
     "full": "Tonga",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "tr-TR",
     "full": "Turkish (Turkey)",
-    "extracted": "%d.%m.%Y %H:%M:%S"
+    "format_date": "%d.%m.%Y %H:%M:%S"
   },
   {
     "short": "tr",
     "full": "Turkish",
-    "extracted": "%d.%m.%Y %H:%M:%S"
+    "format_date": "%d.%m.%Y %H:%M:%S"
   },
   {
     "short": "uk-UA",
     "full": "Ukrainian (Ukraine)",
-    "extracted": "%d.%m.%Y %H:%M:%S"
+    "format_date": "%d.%m.%Y %H:%M:%S"
   },
   {
     "short": "uk",
     "full": "Ukrainian",
-    "extracted": "%d.%m.%Y %H:%M:%S"
+    "format_date": "%d.%m.%Y %H:%M:%S"
   },
   {
     "short": "ur-IN",
     "full": "Urdu (India)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ur-PK",
     "full": "Urdu (Pakistan)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "ur",
     "full": "Urdu",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "uz-Arab",
     "full": "Uzbek (Arabic)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "uz-Arab_AF",
+    "short": "uz-Arab-AF",
     "full": "Uzbek (Arabic, Afghanistan)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "uz-Cyrl",
     "full": "Uzbek (Cyrillic)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "uz-Cyrl_UZ",
+    "short": "uz-Cyrl-UZ",
     "full": "Uzbek (Cyrillic, Uzbekistan)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "uz-Latn",
     "full": "Uzbek (Latin)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
-    "short": "uz-Latn_UZ",
+    "short": "uz-Latn-UZ",
     "full": "Uzbek (Latin, Uzbekistan)",
-    "extracted": false
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "uz",
     "full": "Uzbek",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "vi-VN",
     "full": "Vietnamese (Vietnam)",
-    "extracted": "%H:%M:%S %d/%m/%Y"
+    "format_date": "%H:%M:%S %d/%m/%Y"
   },
   {
     "short": "vi",
     "full": "Vietnamese",
-    "extracted": "%H:%M:%S %d/%m/%Y"
+    "format_date": "%H:%M:%S %d/%m/%Y"
   },
   {
     "short": "vun-TZ",
     "full": "Vunjo (Tanzania)",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "vun",
     "full": "Vunjo",
-    "extracted": "%m/%d/%Y, %I:%M:%S %p"
+    "format_date": "%m/%d/%Y, %I:%M:%S %p"
   },
   {
     "short": "cy-GB",
     "full": "Welsh (United Kingdom)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "cy",
     "full": "Welsh",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "yo-NG",
     "full": "Yoruba (Nigeria)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "yo",
     "full": "Yoruba",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "zu-ZA",
     "full": "Zulu (South Africa)",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   },
   {
     "short": "zu",
     "full": "Zulu",
-    "extracted": "%Y-%m-%d %H:%M:%S"
+    "format_date": "%Y-%m-%d %H:%M:%S"
   }
 ]
